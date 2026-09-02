@@ -1,6 +1,6 @@
 # Executive Sales & Profitability Dashboard | Power BI & Python
 
-![Dashboard Preview](assets/dashboard3.png)
+![Dashboard Preview](assets/Dashboard3.png)
 
 ## 📌 Resumen del Proyecto
 Este proyecto presenta un panel interactivo de control ejecutivo diseñado en **Power BI** para analizar la tendencia de ventas, la rentabilidad financiera y el rendimiento por canal comercial. Los datos fueron simulados en **Python** para recrear un entorno corporativo multicanal con más de 1.500 registros transaccionales.
