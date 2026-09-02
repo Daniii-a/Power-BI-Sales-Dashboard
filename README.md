@@ -74,7 +74,7 @@ DIVIDE(
 ## 🚀 Cómo Replicar este Proyecto
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/Daniii-a/PowerBI-Sales-Profitability-Dashboard.git](https://github.com/Daniii-a/PowerBI-Sales-Profitability-Dashboard.git)
+   git clone [https://github.com/Daniii-a/Power-BI-Sales-Dashboard.git](https://github.com/Daniii-a/Power-BI-Sales-Dashboard.git)
    ```
 2. Abre el archivo `Dashboard_Ventas.pbix` en **Power BI Desktop**.
 3. (Opcional) Revisa el script en `scripts/` para modificar las reglas de simulación de datos en Python.
