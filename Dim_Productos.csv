@@ -1,0 +1,16 @@
+ID_Producto,Nombre_Producto,Categoria,Costo_Unitario,Precio_Venta
+P01,Laptop Pro 15,Tecnología,800000,1200000
+P02,Monitor 27 IPS,Tecnología,250000,450000
+P03,Teclado Mecánico,Tecnología,60000,110000
+P04,Mouse Inalámbrico,Tecnología,30000,55000
+P05,Audífonos Bluetooth,Tecnología,90000,180000
+P06,Silla Ergonómica,Oficina,180000,320000
+P07,Escritorio Ajustable,Oficina,300000,550000
+P08,Lámpara LED LED,Oficina,25000,50000
+P09,Impresora Láser,Oficina,200000,380000
+P10,Cámara Web HD,Tecnología,70000,130000
+P11,Disco Duro Externo 1TB,Tecnología,110000,190000
+P12,Mochila para Laptop,Accesorios,35000,70000
+P13,Soporte para Laptop,Accesorios,20000,45000
+P14,Power Bank 20000mAh,Accesorios,45000,85000
+P15,Hub USB-C 7 en 1,Accesorios,50000,95000

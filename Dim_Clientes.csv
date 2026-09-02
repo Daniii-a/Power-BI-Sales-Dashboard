@@ -1,0 +1,121 @@
+ID_Cliente,Nombre_Cliente,Ciudad,Segmento
+C001,Cliente 1,Bogotá,Corporativo
+C002,Cliente 2,Cali,Corporativo
+C003,Cliente 3,Medellín,Corporativo
+C004,Cliente 4,Bogotá,Consumidor Final
+C005,Cliente 5,Bucaramanga,Corporativo
+C006,Cliente 6,Bucaramanga,Pyme
+C007,Cliente 7,Bogotá,Corporativo
+C008,Cliente 8,Bogotá,Corporativo
+C009,Cliente 9,Medellín,Consumidor Final
+C010,Cliente 10,Bucaramanga,Corporativo
+C011,Cliente 11,Bucaramanga,Corporativo
+C012,Cliente 12,Bucaramanga,Pyme
+C013,Cliente 13,Medellín,Pyme
+C014,Cliente 14,Bucaramanga,Pyme
+C015,Cliente 15,Bogotá,Corporativo
+C016,Cliente 16,Barranquilla,Pyme
+C017,Cliente 17,Cali,Corporativo
+C018,Cliente 18,Medellín,Pyme
+C019,Cliente 19,Bogotá,Corporativo
+C020,Cliente 20,Barranquilla,Corporativo
+C021,Cliente 21,Cali,Pyme
+C022,Cliente 22,Bucaramanga,Pyme
+C023,Cliente 23,Bogotá,Consumidor Final
+C024,Cliente 24,Barranquilla,Consumidor Final
+C025,Cliente 25,Bogotá,Pyme
+C026,Cliente 26,Bogotá,Consumidor Final
+C027,Cliente 27,Cali,Consumidor Final
+C028,Cliente 28,Bucaramanga,Pyme
+C029,Cliente 29,Bucaramanga,Corporativo
+C030,Cliente 30,Bogotá,Corporativo
+C031,Cliente 31,Medellín,Pyme
+C032,Cliente 32,Bogotá,Corporativo
+C033,Cliente 33,Bogotá,Pyme
+C034,Cliente 34,Cali,Pyme
+C035,Cliente 35,Cali,Corporativo
+C036,Cliente 36,Cali,Pyme
+C037,Cliente 37,Medellín,Consumidor Final
+C038,Cliente 38,Cali,Consumidor Final
+C039,Cliente 39,Bogotá,Consumidor Final
+C040,Cliente 40,Medellín,Consumidor Final
+C041,Cliente 41,Medellín,Corporativo
+C042,Cliente 42,Barranquilla,Pyme
+C043,Cliente 43,Cali,Consumidor Final
+C044,Cliente 44,Bucaramanga,Corporativo
+C045,Cliente 45,Cali,Corporativo
+C046,Cliente 46,Medellín,Corporativo
+C047,Cliente 47,Cali,Pyme
+C048,Cliente 48,Cali,Corporativo
+C049,Cliente 49,Medellín,Consumidor Final
+C050,Cliente 50,Cali,Corporativo
+C051,Cliente 51,Barranquilla,Pyme
+C052,Cliente 52,Barranquilla,Corporativo
+C053,Cliente 53,Cali,Corporativo
+C054,Cliente 54,Medellín,Consumidor Final
+C055,Cliente 55,Bucaramanga,Consumidor Final
+C056,Cliente 56,Cali,Consumidor Final
+C057,Cliente 57,Bucaramanga,Pyme
+C058,Cliente 58,Bucaramanga,Pyme
+C059,Cliente 59,Cali,Corporativo
+C060,Cliente 60,Medellín,Consumidor Final
+C061,Cliente 61,Barranquilla,Corporativo
+C062,Cliente 62,Bogotá,Corporativo
+C063,Cliente 63,Medellín,Consumidor Final
+C064,Cliente 64,Medellín,Consumidor Final
+C065,Cliente 65,Barranquilla,Consumidor Final
+C066,Cliente 66,Bogotá,Pyme
+C067,Cliente 67,Barranquilla,Consumidor Final
+C068,Cliente 68,Barranquilla,Consumidor Final
+C069,Cliente 69,Cali,Consumidor Final
+C070,Cliente 70,Bogotá,Consumidor Final
+C071,Cliente 71,Bogotá,Consumidor Final
+C072,Cliente 72,Bucaramanga,Pyme
+C073,Cliente 73,Cali,Corporativo
+C074,Cliente 74,Cali,Pyme
+C075,Cliente 75,Medellín,Pyme
+C076,Cliente 76,Bogotá,Consumidor Final
+C077,Cliente 77,Cali,Consumidor Final
+C078,Cliente 78,Medellín,Consumidor Final
+C079,Cliente 79,Bogotá,Consumidor Final
+C080,Cliente 80,Cali,Consumidor Final
+C081,Cliente 81,Bucaramanga,Consumidor Final
+C082,Cliente 82,Medellín,Corporativo
+C083,Cliente 83,Cali,Corporativo
+C084,Cliente 84,Bucaramanga,Consumidor Final
+C085,Cliente 85,Bogotá,Consumidor Final
+C086,Cliente 86,Cali,Pyme
+C087,Cliente 87,Bogotá,Corporativo
+C088,Cliente 88,Cali,Pyme
+C089,Cliente 89,Medellín,Corporativo
+C090,Cliente 90,Medellín,Consumidor Final
+C091,Cliente 91,Bogotá,Corporativo
+C092,Cliente 92,Barranquilla,Corporativo
+C093,Cliente 93,Bucaramanga,Corporativo
+C094,Cliente 94,Medellín,Consumidor Final
+C095,Cliente 95,Barranquilla,Consumidor Final
+C096,Cliente 96,Medellín,Pyme
+C097,Cliente 97,Bucaramanga,Consumidor Final
+C098,Cliente 98,Barranquilla,Corporativo
+C099,Cliente 99,Bucaramanga,Consumidor Final
+C100,Cliente 100,Medellín,Consumidor Final
+C101,Cliente 101,Cali,Pyme
+C102,Cliente 102,Cali,Pyme
+C103,Cliente 103,Bucaramanga,Pyme
+C104,Cliente 104,Bogotá,Corporativo
+C105,Cliente 105,Medellín,Corporativo
+C106,Cliente 106,Cali,Corporativo
+C107,Cliente 107,Bucaramanga,Consumidor Final
+C108,Cliente 108,Medellín,Consumidor Final
+C109,Cliente 109,Medellín,Corporativo
+C110,Cliente 110,Bogotá,Consumidor Final
+C111,Cliente 111,Bogotá,Corporativo
+C112,Cliente 112,Bogotá,Corporativo
+C113,Cliente 113,Cali,Corporativo
+C114,Cliente 114,Bucaramanga,Corporativo
+C115,Cliente 115,Cali,Consumidor Final
+C116,Cliente 116,Barranquilla,Corporativo
+C117,Cliente 117,Bucaramanga,Corporativo
+C118,Cliente 118,Bucaramanga,Consumidor Final
+C119,Cliente 119,Barranquilla,Corporativo
+C120,Cliente 120,Barranquilla,Pyme
